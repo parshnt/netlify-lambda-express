@@ -1,0 +1,14 @@
+# npm-universe
+node_modules
+
+# environment variables
+.env
+
+# Netlify folder
+.netlify
+
+# Distribution folder
+dist/
+
+# cache
+.cache
