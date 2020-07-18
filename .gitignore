@@ -5,10 +5,4 @@ node_modules
 .env
 
 # Netlify folder
-.netlify
-
-# Distribution folder
-dist/
-
-# cache
-.cache
+functions
